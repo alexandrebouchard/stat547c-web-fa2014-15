@@ -21,7 +21,7 @@ Course Information
 **Email:** seong.jun AT stat.ubc.ca
 </address>
 
-**Piazza:** For questions and discussions, enroll [here](piazza.com/ubc.ca/winterterm12014/stat547c)
+**Piazza:** For questions and discussions, enroll [here](http://piazza.com/ubc.ca/winterterm12014/stat547c)
 
 **Office hours:**  The Doodle survey for office hours is open. [Follow this link.](http://doodle.com/ubqnfbg34uiqd8pv) 
 
