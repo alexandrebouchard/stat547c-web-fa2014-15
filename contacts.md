@@ -24,6 +24,7 @@ Course Information
 **Piazza:** For questions and discussions, enroll [here](http://piazza.com/ubc.ca/winterterm12014/stat547c)
 
 **Instructor office hour:**  Fri 3:00-4:00 PM
+
 **TA office hour:** Tue 3:00-4:00 PM
 
 Both office hours will be held in ESB 3125.
