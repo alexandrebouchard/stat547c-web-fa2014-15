@@ -28,6 +28,6 @@ New York (1995).
 
 **Final project:**
 
-**More information TBA soon**
+See post on main page.
 
 **Office hours, TA, piazza, etc:** See ``Contact``.
