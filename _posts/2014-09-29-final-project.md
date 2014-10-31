@@ -21,6 +21,12 @@ First milestone
 Please drop me a email by November 16, if possible, describing in one or two paragraphs what is your plan for the project—this is so that you can get early feedback. Only one email per team is necessary.
 
 
+Final deadline
+--------------
+
+The final deadline is December 15. Please submit electronically your final project using the same method as the assignments, but also confirm by email with Seong and I. Note that I will not be able to extend this deadline unfortunately since the grades are due shortly after.
+
+
 Format
 ------
 
