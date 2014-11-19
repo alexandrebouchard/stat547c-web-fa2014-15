@@ -23,7 +23,7 @@ Course Information
 
 **Piazza:** For questions and discussions, enroll [here](http://piazza.com/ubc.ca/winterterm12014/stat547c)
 
-**Instructor office hour:**  Fri 3:00-4:00 PM
+**Instructor office hour:**  Fri 2:00-3:00 PM
 
 **TA office hour:** Tue 3:00-4:00 PM
 
